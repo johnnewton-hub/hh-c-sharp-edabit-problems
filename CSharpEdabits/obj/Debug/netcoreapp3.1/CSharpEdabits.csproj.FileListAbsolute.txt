@@ -1,0 +1,13 @@
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.csprojAssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.exe
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.deps.json
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.runtimeconfig.json
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.dll
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\bin\Debug\netcoreapp3.1\CSharpEdabits.pdb
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.dll
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.pdb
+C:\Users\pc\OneDrive\Documents\Code\hh-c-sharp-edabit-problems\CSharpEdabits\obj\Debug\netcoreapp3.1\CSharpEdabits.genruntimeconfig.cache
